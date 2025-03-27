@@ -8,7 +8,7 @@ Algoritmo sin_titulo
 	Leer nota_parcial_2;
 	Escribir 'Ingrese la nota del tercer parcial: ';
 	Leer nota_parcial_3;
-	// Definir el umbral de promoción
+	// Definir el umbral de promociÃ³n
 	umbral_promocion <- 7;
 	// Calcular el promedio
 	promedio <- (nota_parcial_1+nota_parcial_2+nota_parcial_3)/3;
